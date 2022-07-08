@@ -1,0 +1,10 @@
+{
+  "name": "html-fund-me-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "fbrcode <fabio.bressler@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
